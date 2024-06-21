@@ -92,7 +92,7 @@ CREATE TABLE game_data (
 );
 ```
 
-##Endpoints
+## Endpoints
 ```
 GET/: Displays the game board.
 POST/move: Submits a move.
