@@ -90,3 +90,12 @@ CREATE TABLE game_data (
     y_moves INTEGER[] NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
+
+##Endpoints
+```
+GET/: Displays the game board.
+POST/move: Submits a move.
+GET/gameHistory: Displays the game history.
+
+```
