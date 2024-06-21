@@ -83,24 +83,3 @@ CREATE TABLE game_data (
     y_moves INTEGER[] NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
-
-## Endpoints
-'GET/': Displays the game board.
-'POST/move': Submits a move.
-'GET/gameHistory': Displays the game history.
-
-##Technologies Used
-JavaScript
-Express.js
-EJS
-PostgreSQL
-HTML
-CSS
-
-##Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature-branch).
-Open a pull request.
-
