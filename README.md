@@ -93,9 +93,28 @@ CREATE TABLE game_data (
 ```
 
 ## Endpoints
-```
-GET/: Displays the game board.
-POST/move: Submits a move.
-GET/gameHistory: Displays the game history.
 
-```
+`GET/:` Displays the game board.
+`POST/move:` Submits a move.
+`GET/gameHistory:` Displays the game history.
+
+## Technologies Used
+1. JavaScript
+2. Express.js
+3. EJS
+4. PostgreSQL
+5. HTML
+6. CSS
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-branch).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature-branch).
+5. Open a pull request.
+
+## License
+This structure ensures that the endpoints, technologies used, and contributing guidelines are placed in their respective sections, making the `README.md` clear and well-organized.
+
+
+
